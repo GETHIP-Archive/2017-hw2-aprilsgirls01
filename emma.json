@@ -2,12 +2,13 @@
     "firstName":"Emma",
     "lastName":"Carlson",
     "age":15,
+    "numsib":2,
     "picture": "http://celestial-imaging.com/aaap/wp-content/uploads/2013/10/No-Image-Available.gif",
     "nickNames": [
         {"nick": "Emmy"},
         {"nick": "Ems"},
         ]
-    "numsib":2,
+    
     "sibnames":[
         {"sib":"Abby"},
         {"sib":"Olivia"}
