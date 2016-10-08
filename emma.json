@@ -6,8 +6,8 @@
     "nickNames": [
         {"nick": "Emmy"},
         {"nick": "Ems"},
-    "number of siblings":2,
-    "siblings' names":
+    "numsiblings":2,
+    "sibnames":
         {"sib":"Abby"},
         {"sib":"Olivia"}
     
