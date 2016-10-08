@@ -9,10 +9,10 @@
         {"nick": "Ems"},
         ]
     
-    "sibnames":[
+    "sibnames": [
         {"sib":"Abby"},
         {"sib":"Olivia"}
-]
+        ]
     
     
 }
