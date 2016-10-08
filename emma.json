@@ -2,9 +2,14 @@
     "firstName":"Emma",
     "lastName":"Carlson",
     "age":15,
-    "picture": "https://pbs.twimg.com/profile_images/425447212626083840/DqyqYfax.jpeg",
+    "picture": "http://celestial-imaging.com/aaap/wp-content/uploads/2013/10/No-Image-Available.gif",
     "nickNames": [
         {"nick": "Emmy"},
-        {"nick": "Ems"}
+        {"nick": "Ems"},
+    "number of siblings":2,
+    "siblings' names":
+        {"sib":"Abby"},
+        {"sib":"Olivia"}
+    
     ]
 }
